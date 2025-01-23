@@ -1,5 +1,3 @@
-# TheTimelessStrategist
-The Timeless Strategist
 # The Timeless Strategist
 
 The Timeless Strategist is a professional and dynamic web platform designed to empower leaders, visionaries, and strategic thinkers with timeless wisdom, actionable tools, and meaningful connections. It serves as a hub for fostering critical thought, bold leadership, and impactful decision-making.
